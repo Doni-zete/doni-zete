@@ -3,6 +3,11 @@
 <!--
 **Doni-zete/doni-zete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -25,7 +30,7 @@ Here are some ideas to get you started:
  
  
  ## ⚡ Technologies
-
+[![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](donizetecrisostomo.b@gmail.com)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
