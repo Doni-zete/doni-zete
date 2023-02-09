@@ -26,7 +26,14 @@
   
  </div>
  
+ <p align="left">
+  <a href="mailto:linhares.karime@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
+  <a href="https://www.linkedin.com/in/karime-linhares-13072b73/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"/></a>
+</p> 
+ 
  
 ## Tecnologias que eu uso no meu dia
 :mag_right:
