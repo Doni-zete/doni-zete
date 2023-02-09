@@ -20,7 +20,7 @@
 
 ## Contatos:
 <div style="display: inline_block>
- <a href = "mailto:jhbasdao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
  <a href="mailto:donizetecrisostomo.b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/donizete-crisostomo-4b24a318b/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"> </a>
  </div>
