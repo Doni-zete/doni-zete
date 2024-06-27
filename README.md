@@ -1,22 +1,6 @@
 
 
-<!--
-**Doni-zete/doni-zete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-<!--  -->
-
-
- 
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Doni-zeti)
- 
- ## Olá! Eu sou o Donizete 🖐️
- 
-  <div style="display: inline_block>
-  <a href="https://github.com/Doni-zete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doni-zete&show_icons=true&theme=white&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doni-zete&layout=compact&langs_count=7&theme=white"/>
-</div>
 
 ## Contatos:
 <p align="left">
